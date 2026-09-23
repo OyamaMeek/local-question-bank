@@ -35,6 +35,6 @@
   - `agent.md`（本次编辑 +9 / -8 行；首次纳入版本控制）
   - `docs/CHANGELOG.md`（追加本次记录；首次纳入版本控制）
 
-- **Git 提交**：待回填 `docs: organize local archives by date` 的实际提交哈希。
+- **Git 提交**：`0abb94b docs: organize local archives by date`。
 
 ---
