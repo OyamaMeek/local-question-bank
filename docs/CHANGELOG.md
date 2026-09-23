@@ -71,6 +71,6 @@
   - `agent.md`（新增自动提交推送流程及交付检查）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待回填 `docs: require automatic push after task completion` 的实际提交哈希。
+- **Git 提交**：`19cbec5 docs: require automatic push after task completion`。
 
 ---
