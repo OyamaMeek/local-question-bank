@@ -56,3 +56,21 @@
 - **Git 提交**：`57c309a docs: name question images with timestamps`。
 
 ---
+
+## [2026-09-23 10:13] 将自动推送远端写入任务流程
+
+- **需求/问题描述**：
+  > 自动 push 到远端仓库。
+
+- **实际实现的功能与改动**：
+  - 在 agent.md 中明确每次任务验证通过后自动记录日志、按文件暂存、创建 Conventional Commits 提交并推送，无需重复确认。
+  - 优先使用当前分支的上游，首次推送使用已配置的 origin 并设置上游；要求核验推送结果，失败时保留本地成果并报告原因。
+  - **测试/验证**：工作流程文本检查与 `git diff --check` 通过。
+
+- **涉及文件**：
+  - `agent.md`（新增自动提交推送流程及交付检查）
+  - `docs/CHANGELOG.md`（追加本次记录）
+
+- **Git 提交**：待回填 `docs: require automatic push after task completion` 的实际提交哈希。
+
+---
