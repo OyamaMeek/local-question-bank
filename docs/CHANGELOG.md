@@ -118,6 +118,6 @@
   - `photo/2026-09-23_09-49-05_02_01.png`（历史原图，69057 字节）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待提交后回填。
+- **Git 提交**：`d3d8638 docs: sync questions to nested Notion toggles`。
 
 ---
