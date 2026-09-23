@@ -93,6 +93,6 @@
   - `2026/09/23/photo/2026-09-23_10-25-43.png`（新增原图，41189 字节）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待创建 `docs: archive question 63 and enforce repository workflow`，取得实际哈希后回填。
+- **Git 提交**：`0dbe9d5 docs: archive question 63 and enforce repository workflow`。
 
 ---
