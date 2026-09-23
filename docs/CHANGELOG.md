@@ -53,6 +53,6 @@
   - `agent.md`（+3 / -3 行）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待回填 `docs: name question images with timestamps` 的实际提交哈希。
+- **Git 提交**：`57c309a docs: name question images with timestamps`。
 
 ---
