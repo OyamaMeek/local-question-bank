@@ -138,6 +138,6 @@
   - `context/2026/09/24/11-44-06/对话.md`（本次可见对话）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待提交。
+- **Git 提交**：`41360a915fe448f01e592e54922db4a35a10651f docs: archive question 104 and sync to Notion`；本条提交信息由后续文档提交补记。
 
 ---
