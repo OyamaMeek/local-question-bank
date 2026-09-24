@@ -201,6 +201,6 @@
   - `context/2026/09/24/22-40-47/对话.md`（本次可见对话）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待提交。
+- **Git 提交**：`f32addfe2a7cb5cb49b59886e19224a26d722bb5 docs: set default Notion target page`；本条提交信息由后续文档提交补记。
 
 ---
