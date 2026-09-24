@@ -182,6 +182,6 @@
   - `context/2026/09/24/22-21-41/对话.md`（本次可见对话）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待提交。
+- **Git 提交**：`6468641ff4aa412c92574db06664a98c325d8bb6 docs: teach infinitesimal equivalence substitution`；本条提交信息由后续文档提交补记。
 
 ---
