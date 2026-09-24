@@ -185,3 +185,22 @@
 - **Git 提交**：`6468641ff4aa412c92574db06664a98c325d8bb6 docs: teach infinitesimal equivalence substitution`；本条提交信息由后续文档提交补记。
 
 ---
+
+## [2026-09-24 22:40] 明确 Notion 默认目标页面
+
+- **需求/问题描述**：
+  > 将题目默认写入截图所示 local-question-bank Notion 页面的规则写入 agent.md。
+
+- **实际实现的功能与改动**：
+  - 将 local-question-bank 明确为 Notion 默认目标页面；仅在用户当前明确指定其他页面时切换。
+  - 保留已有的年份、月份、日期、题干/解析四层折叠结构规则。
+  - **测试/验证**：重新读取修改内容；`git diff --check` 通过。
+
+- **涉及文件**：
+  - `agent.md`（明确 Notion 默认写入页面）
+  - `context/2026/09/24/22-40-47/对话.md`（本次可见对话）
+  - `docs/CHANGELOG.md`（追加本次记录）
+
+- **Git 提交**：待提交。
+
+---
