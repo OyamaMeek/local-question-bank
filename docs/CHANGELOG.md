@@ -242,6 +242,6 @@
   - `context/2026/09/27/20-00-49/对话.md`（本次可见对话）
   - `docs/CHANGELOG.md`（追加本次记录）
 
-- **Git 提交**：待提交。
+- **Git 提交**：`2e8f85e2811c07f20ace8a7c0e1094ead8c970ff docs: disable Superpowers for this project`；本条提交信息由后续文档提交补记。
 
 ---
