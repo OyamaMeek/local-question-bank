@@ -1,3 +1,5 @@
+本项目不使用 Superpowers：不启用 `using-superpowers`（use superpower）及其他 `superpowers:*` 技能或工作流程。
+
 # 题库任务入口
 
 每次处理本仓库的任务前，必须先读取并遵守 [agent.md](agent.md) 中的完整工作流程。

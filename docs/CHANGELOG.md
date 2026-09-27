@@ -226,3 +226,22 @@
 - **Git 提交**：`c1f10387087dad2848619e28625a983c9b3a44b2 docs: archive question 100 and sync to Notion`；本条提交信息由后续文档提交补记。
 
 ---
+
+## [2026-09-27 20:00] 本项目不使用 Superpowers
+
+- **需求/问题描述**：
+  > 在这个项目不使用use superpower
+
+- **实际实现的功能与改动**：
+  - 在项目规则与代理记忆中明确不启用 `using-superpowers` 及其他 `superpowers:*` 技能或工作流程。
+  - **测试/验证**：重新读取规则与记忆，内容一致；`git diff --check` 通过。本次仅修改文档。
+
+- **涉及文件**：
+  - `AGENTS.md`（新增项目技能约束）
+  - `memory/agents.md`（记录技能约束）
+  - `context/2026/09/27/20-00-49/对话.md`（本次可见对话）
+  - `docs/CHANGELOG.md`（追加本次记录）
+
+- **Git 提交**：待提交。
+
+---
