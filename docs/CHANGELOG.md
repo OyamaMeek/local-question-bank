@@ -265,6 +265,6 @@
   - `context/2026/09/30/18-11-49/对话.md`（本次可见对话，截至归档时）
   - `docs/CHANGELOG.md`（本次开发记录）
 
-- **Git 提交**：待提交。
+- **Git 提交**：`378264d4626677e427d6caac299c7869bf14af87 docs: archive question 06 and sync to Notion`，已推送到 `origin/main` 并核对远端哈希；本条提交信息由后续文档提交补记。
 
 ---
