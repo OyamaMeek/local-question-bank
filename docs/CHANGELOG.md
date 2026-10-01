@@ -286,6 +286,6 @@
   - `context/2026/10/02/00-03-21/对话.md`（本次可见任务对话，截至归档时）
   - `docs/CHANGELOG.md`（本次记录）
 
-- **Git 提交**：待提交。
+- **Git 提交**：`2e09406f3e403c2c19ceadea407990cf37b5cafb docs: explain matrix elimination and sync to Notion`，已推送到 `origin/main` 并核对远端哈希；本条提交信息由后续文档提交补记。
 
 ---
