@@ -331,3 +331,15 @@
 - **Git 提交**：`275bf5e7b06096baee383276f6bac04976f73f85 docs: archive determinant correction and default Notion sync`，已推送到 `origin/main` 并核对远端哈希；本条信息由后续文档提交补记。
 
 ---
+
+## [2026-10-11 23:00] 默认仅进行基础检查
+
+- **需求/问题描述**：
+  > 以后在这个项目中不要过度检查，只进行基础检查。
+- **实际实现的功能与改动**：
+  - 在持久记录中明确基础检查范围，通过后停止；有失败或明确疑点时仅补充定位所需检查。
+  - **测试/验证**：重新读取修改内容，执行 `git diff --check`；本次仅修改文档。
+- **涉及文件**：`memory/gotchas.md`、`memory/verify.md`、`docs/CHANGELOG.md`。
+- **Git 提交**：待提交。
+
+---
