@@ -328,6 +328,6 @@
   - `memory/agents.md`、`memory/gotchas.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交。
+- **Git 提交**：`275bf5e7b06096baee383276f6bac04976f73f85 docs: archive determinant correction and default Notion sync`，已推送到 `origin/main` 并核对远端哈希；本条信息由后续文档提交补记。
 
 ---
