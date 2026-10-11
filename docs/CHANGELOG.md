@@ -369,6 +369,6 @@
   - 在 AGENTS.md 开头明确基础检查范围及停止条件，适用于下文所有检查要求。
   - **测试/验证**：重新读取新增规则，`git diff --check` 通过；仅修改文档。
 - **涉及文件**：`AGENTS.md`、`docs/CHANGELOG.md`。
-- **Git 提交**：待提交（基础检查入口规则）。
+- **Git 提交**：`ba7be3f42b22921d55fcd39d13e22d97f6ce0b18 docs: specify basic checks in AGENTS instructions`；本条信息由后续文档提交补记。
 
 ---
