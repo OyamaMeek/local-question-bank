@@ -340,6 +340,6 @@
   - 在持久记录中明确基础检查范围，通过后停止；有失败或明确疑点时仅补充定位所需检查。
   - **测试/验证**：重新读取修改内容，执行 `git diff --check`；本次仅修改文档。
 - **涉及文件**：`memory/gotchas.md`、`memory/verify.md`、`docs/CHANGELOG.md`。
-- **Git 提交**：待提交。
+- **Git 提交**：`6fff33d4f5b9a5f4ba46c46a0bcbed0edce28714 docs: limit default verification to basic checks`；本条信息由后续文档提交补记。
 
 ---
