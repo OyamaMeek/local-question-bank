@@ -357,6 +357,18 @@
   - `2026/10/11/photo/2026-10-11_23-01-16.jpg`
   - `2026/10/11/2026-10-11_22-54-14.md`
   - `memory/plan.md`、`memory/progress.md`、`docs/CHANGELOG.md`
-- **Git 提交**：待提交。
+- **Git 提交**：`ffc02a1d0b6d26d935fc306f8710a0797a11cbd2 docs: explain determinant simplification error and sync Notion`，已推送到 `origin/main` 并核对远端哈希；本条信息由后续文档提交补记。
+
+---
+
+## [2026-10-11 23:05] 在项目入口明确基础检查规则
+
+- **需求/问题描述**：
+  > 将只进行基础检查的偏好写入 AGENTS.md。
+- **实际实现的功能与改动**：
+  - 在 AGENTS.md 开头明确基础检查范围及停止条件，适用于下文所有检查要求。
+  - **测试/验证**：重新读取新增规则，`git diff --check` 通过；仅修改文档。
+- **涉及文件**：`AGENTS.md`、`docs/CHANGELOG.md`。
+- **Git 提交**：待提交（基础检查入口规则）。
 
 ---
