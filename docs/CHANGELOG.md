@@ -387,6 +387,6 @@
   - `2026/10/12/photo/2026-10-12_22-44-33.jpg`
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
-- **Git 提交**：待提交，仅暂存本次归档和记录，保留用户已有 AGENTS.md 修改、agent.md 删除及未跟踪 .DS_Store。
+- **Git 提交**：`1954c7347d5af2b61226d4cd54ca3bdd781dded7 docs: solve collision restitution and optimal masses`，已推送到 `origin/main` 并核对远端哈希；本条信息由后续文档提交补记。仅提交本次归档和记录，保留用户已有修改。
 
 ---
