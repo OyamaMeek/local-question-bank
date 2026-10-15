@@ -404,7 +404,7 @@
   - `2026/10/15/photo/2026-10-15_00-23-15.jpg`
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
-- **Git 提交**：`82a61bca20c0ffbf3aa6f2dc27c468bbf30b0870 docs: solve nth-root sine limit and sync Notion`；本条信息由后续文档提交补记。普通推送重试后仍因 GitHub HTTPS 连接的 `LibreSSL SSL_connect: SSL_ERROR_SYSCALL` 失败，远端同步待完成。
+- **Git 提交**：`82a61bca20c0ffbf3aa6f2dc27c468bbf30b0870 docs: solve nth-root sine limit and sync Notion`；本条信息由后续文档提交补记。此前因 GitHub HTTPS 连接失败未能推送，已于 2026-10-15 第 2 题归档时随普通推送同步至 origin/main。
 
 ---
 
@@ -422,6 +422,6 @@
   - `2026/10/15/photo/2026-10-15_10-38-18.jpg`
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
-- **Git 提交**：待提交。
+- **Git 提交**：`b98d2d33ed714abd1d7b757044084641d5d0db2d docs: explain six sequence limits and sync Notion`，已推送至 origin/main 并核对远端哈希；本条信息由后续文档提交补记。
 
 ---
