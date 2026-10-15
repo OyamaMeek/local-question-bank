@@ -440,6 +440,6 @@
   - `2026/10/15/photo/2026-10-15_11-29-47.jpg`
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
-- **Git 提交**：待提交。
+- **Git 提交**：`c5d684b2e4e4f4505c231033851afd7a24a1263d docs: explain sequence limit claims and sync Notion`，已推送至 origin/main 并核对远端哈希；本条信息由后续文档提交补记。
 
 ---
