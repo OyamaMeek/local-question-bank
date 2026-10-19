@@ -450,4 +450,4 @@
 - **实际改动**：补读项目指令；保存 JPEG 原图和完整 Markdown 解析；令 m=n-1，使用基本极限求得 1/e；同步到 Notion 的 2026年 → 10月 → 19日 → 第 9 题。
 - **验证结果**：关键恒等变形、换元指数和答案范围核对通过；Notion 本次新增四层嵌套、完整题干解析与 7 个独立公式已复读核对。本地原图逐字节一致、文件引用和公式格式检查通过；git diff --check 通过。
 - **涉及文件**：`2026/10/19/2026-10-19_01-25-45.md`、`2026/10/19/photo/2026-10-19_01-25-45.jpg`、`docs/CHANGELOG.md`。
-- **Git 提交信息**：`docs: archive sequence limit solution and sync Notion`；实际提交哈希由后续日志提交回填，推送状态以执行结果为准。
+- **Git 提交信息**：`98c794cc05bf6d22c77c63f2b0e414e19489edfd docs: archive sequence limit solution and sync Notion`；本条由后续日志提交补记。当前分支 work 尚无上游，按项目规则推送到 origin/work，推送结果另行核对并在交付中报告。
