@@ -460,4 +460,4 @@
 - **实际改动**：保存新 JPEG 原图和独立核对记录；在原解析补充先凑基本极限再取倒数的方法，解释 t=-1/n 趋于 0 的左侧及底数负号；更新 Notion 已有第 9 题解析，不重复建题。
 - **验证结果**：关键恒等式、负号和指数核对通过；Notion 新增说明与 4 个独立公式已复读核对，仍仅一组题干/解析；本地原图逐字节一致、引用与公式检查通过；git diff --check 通过。
 - **涉及文件**：`2026/10/19/2026-10-19_01-29-22.md`、`2026/10/19/photo/2026-10-19_01-29-22.jpg`、`2026/10/19/2026-10-19_01-25-45.md`、`docs/CHANGELOG.md`。
-- **Git 提交信息**：`docs: verify handwritten reciprocal limit method`；实际提交哈希由后续日志提交补记，推送到当前上游 origin/work。
+- **Git 提交信息**：`187499c928120e5c9fd6c0e393356006239f20ff docs: verify handwritten reciprocal limit method`；本条由后续日志提交补记，推送目标为当前上游 origin/work，结果核对后在交付中报告。
