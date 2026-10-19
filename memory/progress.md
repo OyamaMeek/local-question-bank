@@ -5,5 +5,5 @@
 - [x] 保存正弦差商极限完整解析，注明截图原始题干的显示范围。
 - [x] 关键推导、两个特殊值、图片引用及公式格式核对通过；写入既有 Notion 日期层级，回读一组题干/解析及 11 个独立公式，已回填同步状态。
 - [x] 已追加开发日志，归档提交为 `2867e6394cfaa6ed98d31ef1233680b4fe16929c docs: explain sine difference quotient and sync Notion`，提交信息通过后续文档提交补记。
-- [ ] 普通推送至 origin/main：首次连接 github.com:443 发生 LibreSSL SSL_ERROR_SYSCALL，尚未确认远端同步。
+- [ ] 普通推送至 origin/main：连接恢复后发现远端新增第 9 题归档，已保留双方内容并解决日志追加冲突，等待完成合并提交和推送。
 - 用户已有修改：AGENTS.md 被修改、agent.md 被删除，另有未跟踪 .DS_Store；不纳入本次提交。
