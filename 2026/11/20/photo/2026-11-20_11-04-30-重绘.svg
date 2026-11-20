@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="510" viewBox="0 0 790 510"><rect width="790" height="510" fill="white"/><text x="32" y="44" font-family="Arial,sans-serif" font-size="23">第 17 题 · 五阶三对角行列式（结构重绘，非原图）</text><text x="20" y="256" font-family="Georgia,serif" font-size="34" font-style="italic">D₅ =</text><path d="M65 65 H80 M65 65 V419 M65 419 H80 M704 65 H689 M704 65 V419 M704 419 H689" fill="none" stroke="#202020" stroke-width="2.5"/><text x="120" y="111" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">1−x</text>
+<text x="235" y="111" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">x</text>
+<text x="350" y="111" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="465" y="111" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="580" y="111" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="120" y="181" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">−1</text>
+<text x="235" y="181" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">1−x</text>
+<text x="350" y="181" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">x</text>
+<text x="465" y="181" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="580" y="181" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="120" y="251" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="235" y="251" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">−1</text>
+<text x="350" y="251" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">1−x</text>
+<text x="465" y="251" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">x</text>
+<text x="580" y="251" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="120" y="321" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="235" y="321" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="350" y="321" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">−1</text>
+<text x="465" y="321" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">1−x</text>
+<text x="580" y="321" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">x</text>
+<text x="120" y="391" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="235" y="391" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="350" y="391" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">0</text>
+<text x="465" y="391" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">−1</text>
+<text x="580" y="391" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">1−x</text>
+<text x="40" y="468" font-size="16" fill="#666" font-family="Arial,sans-serif">原图及手写过程由用户上传，保留在该题会话工作区；本图只复现题干矩阵。</text></svg>
